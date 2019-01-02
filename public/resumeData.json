@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Rebekah Saugen",
-    "occupation":"Software Engineer",
-    "description":"I like coding, and solving puzzles.",
+    "occupation":"Software Developer",
+    "description":"I enjoy learning, collaborating, and getting things done",
     "image":"coder.png",
-    "bio":"A developer looking to improve a little everyday. Interested in building fault tolerant, scalable systems. Currently on a mission to have fluency in machine learning and AI.",
+    "bio":"I am most interested in building fault tolerant, extendable, scalable systems. I have experience developing Android applications, and backend microservice systems. Yes, I can go fullstack. My most current mission is to become proficient in machine learning and AI. I am a past student-athlete and naturally gravitate towards leading and working in team-based settings. I enjoy good coffee, family time, and the Northern Shore of Minnesota. ",
     "contactmessage":"",
     "email": "rsaugen10@gmail.com",
     "phone": "952-212-9848",
@@ -14,28 +14,18 @@
       "state":"Minnesota",
       "zip": "55401"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.rebekahsaugen.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/rebekah-saugen-561332a5/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/rebekah-e-saugen?tab=repositories",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
